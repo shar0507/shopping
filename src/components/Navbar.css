@@ -1,0 +1,10 @@
+nav{
+    background-color:bisque;
+    position: relative;
+    overflow: hidden;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+
